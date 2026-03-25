@@ -1,2 +1,7 @@
-# dockerfile-templates
-Collection of Dockerfile templates for containerizing applications written in different programming languages such as Python, Java, and .NET.
+Languages containerized in this project:
+
+Python (Flask)
+Node.js (Express)
+Java (Spring Boot)
+.NET (ASP.NET Core)
+PHP
